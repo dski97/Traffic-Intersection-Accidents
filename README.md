@@ -7,4 +7,4 @@ View the webpage here:
 
 This was created using State data on intersection crash data and completing a buffer and near analsysis spatial join on intersection location. Crash accidents were geocoded to get lat/long information which was then concatened with Google Maps streetview to create a pin point map of the location.
 
-Information pin points intersections with most accidents. This infomration could be used to study these areas and implement new safety infrastructure.
+Information pin points intersections with most accidents. This information could be used to study these areas and implement new safety infrastructure.
