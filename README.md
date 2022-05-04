@@ -1,4 +1,4 @@
-# Traffic-Intersection-Accidents
+# Traffic Intersection Accidents
 Analysis on Traffic Intersection Accidents for the Town of Southington
 
 # Traffic Intersection Accidents Google Sheet Location Analysis
