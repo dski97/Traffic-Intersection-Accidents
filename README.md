@@ -6,7 +6,7 @@ Analysis on Traffic Intersection Accidents
 
 View the webpage here: 
 
-***https://docs.google.com/spreadsheets/d/e/2PACX-1vTkEVEkve10wwM2gVFNT-zurOGEeUoAgZmCuW-T8ZcbAIHyuGUffm4SYdvHDR-2qtmoAXZzHvxnjkUi/pubhtm****
+***https://docs.google.com/spreadsheets/d/e/2PACX-1vTkEVEkve10wwM2gVFNT-zurOGEeUoAgZmCuW-T8ZcbAIHyuGUffm4SYdvHDR-2qtmoAXZzHvxnjkUi/pubhtml****
 
 This was created using State data on intersection crash data and completing a buffer and near analsysis spatial join on intersection location. Crash accidents were geocoded to get lat/long information which was then concatened with Google Maps streetview to create a pin point map of the location.
 
